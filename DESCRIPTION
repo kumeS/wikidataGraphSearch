@@ -1,0 +1,35 @@
+Package: searchLODgraph
+Title:A package for search and visualization of knowledge graph structures
+      in the Linked Open Data
+Version: 0.1.0
+Authors@R: c(
+    person ("Satoshi", "Kume", email = "rsc.bio.osa@gmail.com",
+        role = c("aut", "cre"), comment = c(ORCID = "0000-0001-7481-2843"))
+    )
+Maintainer: Satoshi Kume <k-satoshi@osakac.ac.jp>
+Description: searchLODgraph provides conceptual relations and 
+  graph visualization of entities from the Linked Open Data (LOD) via SPARQL.
+  Currently, searchLODgraph support only for searching the Resource 
+  Description Framework (RDF) data in wikidata (https://query.wikidata.org/).
+  the property relations of "subClassOf" and "instanceOf"
+  
+
+License: XXX
+Imports: 
+Suggests: 
+Encoding: UTF-8
+LazyData: true
+biocViews: BiomedicalInformatics, Cheminformatics, SystemsBiology, GraphAndNetwork, Network, Pathways, 
+VignetteBuilder: knitr
+RoxygenNote: 
+git_url: https://git.bioconductor.org/packages/searchLODgraph
+git_branch: 
+git_last_commit: 
+git_last_commit_date: 
+Date/Publication: 
+NeedsCompilation: no
+Packaged: 
+Author: Satoshi Kume [aut, cre] (<https://orcid.org/0000-0001-7481-2843>)
+Maintainer: Satoshi Kume <k-satoshi@osakac.ac.jp>
+
+

@@ -1,7 +1,7 @@
 Package: searchLODgraph
 Title:A package for search and visualization of knowledge graph structures
       in the Linked Open Data
-Version: 0.1.0
+Version: 0.99.1
 Authors@R: c(
     person ("Satoshi", "Kume", email = "rsc.bio.osa@gmail.com",
         role = c("aut", "cre"), comment = c(ORCID = "0000-0001-7481-2843"))
